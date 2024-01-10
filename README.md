@@ -45,8 +45,8 @@
 
 <div>
   <h2>GitHub Stats:</h2>
-  <img src='https://github-readme-stats.vercel.app/api?username=sailormoonvicky&show_icons=true&theme=dracula' height='150'  alt='stats graph'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sailormoonvicky&layout=donut&theme=dracula' height='150' alt='languages graph'>
+  <img src='https://github-readme-stats.vercel.app/api?username=sailormoonvicky&show_icons=true&theme=dracula' height='200'  alt='stats graph'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sailormoonvicky&layout=donut&theme=dracula' height='200' alt='languages graph'>
 </div>
 
 <div align="center">

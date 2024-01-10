@@ -3,7 +3,7 @@
 
 <div>
   <h2>At a glance:</h2>
-  - 🔭 I’m currently working on Brainheart as software developer intern.
+  - 🔭 I’m currently working by <a href='https://brainheart.app/'>Brainheart</a> as software developer intern.
   <br>
   - 🌱 I’m currently learning Software Foundation at <a href='https://www.foundersandcoders.com/'>Founders and Coders</a>.
   <br>
@@ -45,7 +45,7 @@
 
 <div>
   <h2>GitHub Stats:</h2>
-  <img src='https://github-readme-stats.vercel.app/api?username=sailormoonvicky&show_icons=true&theme=dracula' height='150' alt='stats graph'>
+  <img src='https://github-readme-stats.vercel.app/api?username=sailormoonvicky&show_icons=true&theme=dracula' height='150'  alt='stats graph'>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sailormoonvicky&layout=donut&theme=dracula' height='150' alt='languages graph'>
 </div>
 

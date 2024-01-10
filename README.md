@@ -49,6 +49,10 @@
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sailormoonvicky&layout=donut&theme=dracula' height='150' alt='languages graph'>
 </div>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sailormoonvicky.sailormoonvicky" alt='visitor badge' />
+</div>
+
 
 <!--
 **sailormoonvicky/sailormoonvicky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
